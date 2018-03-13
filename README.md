@@ -2,8 +2,7 @@
 
 Web page runnig the game: http://web.tecnico.ulisboa.pt/ist181538/CG/index.html
 
-Control keys:
-
+**Control keys:**
 * Left arrow and right arrow - move the spaceship
 * 'A' - change between solid or wire model
 * '1' - fixed camera (ortogonal projection)
@@ -11,7 +10,7 @@ Control keys:
 * '3' - similar to camera 2 but this one follows the spaceship movement
 * 'B' - shoot
 * 'L' - able or disable the lighting calculation
-*if ('L' is able)
+* if ('L' is able)
    * 'N' - able or disable the spotlight (represents the sun)
    * 'G' - change between Gouraud and Phong shading
    * 'C' - turn on six stars 
